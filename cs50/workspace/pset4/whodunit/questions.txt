@@ -1,0 +1,12 @@
+1.  stdint.h is a header that gives ints with fixed widths
+2.  to make sure the number is of the proper value for the file type
+3.  byte = 8, dword = 32, long = 32, word = 16
+4.  
+5.  TODO
+6.  TODO
+7.  TODO
+8.  TODO
+9.  TODO
+10. TODO
+11. TODO
+12. TODO
